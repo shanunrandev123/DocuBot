@@ -1,4 +1,4 @@
-# PDF Converser Using Gemini Pro
+# PDF Converser Using GenAi
 
 ## Overview
 
